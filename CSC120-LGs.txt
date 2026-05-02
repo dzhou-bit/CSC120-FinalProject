@@ -1,0 +1,5 @@
+Use object-oriented techniques to write programs.
+Develop classes and interfaces with overloaded methods.
+Use inheritance, polymorphism, and abstract classes.
+Design and implement robust, reusable, human-friendly programs (including the development of unit tests and custom exception classes).
+Make friends, have fun!
